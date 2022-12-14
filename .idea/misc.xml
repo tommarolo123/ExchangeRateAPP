@@ -4,6 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/sun/Documents/GitHub/ExchangeRateAPP/app/src/main/res/layout/activity_main.xml" value="0.11096014492753623" />
+        <entry key="..\:/Users/sun/Documents/GitHub/ExchangeRateAPP/app/src/main/res/layout/fragment_rate.xml" value="0.1" />
+        <entry key="..\:/Users/sun/Documents/GitHub/ExchangeRateAPP/app/src/main/res/layout/fragment_rates.xml" value="0.1" />
+        <entry key="..\:/Users/sun/Documents/GitHub/ExchangeRateAPP/app/src/main/res/layout/rate_item.xml" value="0.1" />
       </map>
     </option>
   </component>
